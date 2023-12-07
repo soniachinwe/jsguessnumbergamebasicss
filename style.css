@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgba(255, 192, 203, 0.829);
+}
+ 
+.container {
+    height: 50vh;
+    width: 40%;
+    background-color: rgba(221, 160, 221, 0.774);
+    margin: 0 auto;
+    padding: 2%;
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+}
+h1 {
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+ h2 {
+    font-size: 40px;
+ }
+
+ h3 {
+    font-size: 30px;
+ }
+
+#display {
+    font-size: 30px;
+    padding-top: 80px;
+
+}
+#game {
+    font-size: 30px;
+    text-align: center;
+}
+#btn {
+    font-size: 25px;
+}
